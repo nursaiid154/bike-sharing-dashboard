@@ -1,0 +1,17 @@
+# Streamlit untuk membuat dashboard aplikasi interaktif
+streamlit==1.19.0
+
+# Pandas untuk manipulasi dan analisis data
+pandas==1.5.3
+
+# Matplotlib untuk visualisasi data
+matplotlib==3.7.1
+
+# Seaborn untuk visualisasi statistik
+seaborn==0.12.2
+
+# NumPy untuk operasi numerik dan array
+numpy==1.24.2
+
+# Untuk memastikan kompatibilitas dalam versi lainnya (optional)
+pip==23.0.1
